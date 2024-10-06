@@ -11,6 +11,7 @@
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM
+```
 /*    Developed By : KAVINAJAI.T
       Reg No : 212223100020   */
 #include<stdio.h>
@@ -83,6 +84,7 @@ int main() {
 
     return 0;
 }
+```
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/2c28edab-16f9-420f-94e8-6e8e4ccafc39)
 
